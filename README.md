@@ -1,2 +1,0 @@
-# PROYECTO-LFA
-Proyecto de Lenguajes Formales y Automatas - REGISTRO DE PRESTAMOS DE LIBROS DE BIBLIOTECA
